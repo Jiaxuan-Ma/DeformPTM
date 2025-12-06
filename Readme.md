@@ -69,7 +69,9 @@ Given a **target stress–strain curve**:
   * Optimized deformation path
 
 This enables:
+
 ✔️ Generating TMP routes that realize a desired deformation response
+
 ✔️ Demonstrating DeformPTM’s inverse-design capability
 
 ---
